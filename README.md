@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Onizuka-Eikichi
+- 👀 I’m interested in cyber-security, OS development, forensic, OSINT, scraping, low-level programming, web development
+- 🌱 I’m currently learning "how to make an OS from scratch using C++" 
+- 📫 How to reach me onizuka.sama@protonmail.com
